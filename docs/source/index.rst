@@ -12,7 +12,7 @@ This website provides key information, and links to publications and tools creat
 
 .. toctree::
    :caption: Welcome
-   :maxdepth: 1
+   :maxdepth: 3
 
    /project/project.rst
 
