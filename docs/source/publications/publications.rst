@@ -27,11 +27,19 @@ Cameron, A., Klima, C. L., Ha, R., Gruninger, R. J., Zaheer, R., & McAllister, T
 
 Chekabab, S. M., Rehman, M. A., Yin, X., Carrillo, C., Mondor, M., & Diarra, M. S. (2019). Growth of Salmonella enterica Serovars Typhimurium and Enteritidis in Iron-Poor Media and in Meat: Role of Catecholate and Hydroxamate Siderophore Transporters. Journal of Food Protection, 82(4), 548–560. `Full Text <https://doi.org/10.4315/0362-028X.JFP-18-371>`_
 
+Cooper, A. L., Low, A. J., Koziol, A. G., Thomas, M. C., Leclair, D., Tamber, S., Wong, A., Blais, B. W., & Carrillo, C. D. (2020). Whole Genome Sequence-Based Predictions of Serotype and Antimicrobial Resistance for Salmonella Isolates from Canadian Poultry. Frontiers in Microbiology, 11, 549. `Full Text <https://doi.org/10.3389/fmicb.2020.00549>`_
+
 Islam, M. R., Lepp, D., Godfrey, D. V, Orban, S., Ross, K., Delaquis, P., & Diarra, M. S. (2019). Effects of wild blueberry ( Vaccinium angustifolium ) pomace feeding on gut microbiota and blood metabolites in free-range pastured broiler chickens . Poultry Science, 1–17. `Full Text <https://doi.org/10.3382/ps/pez062>`_
 
 Klima, C. L., Holman, D. B., Ralston, B. J., Stanford, K., Zaheer, R., Alexander, T. W., & McAllister, T. A. (2019). Lower Respiratory Tract Microbiome and Resistome of Bovine Respiratory Disease Mortalities. Microbial Ecology. `Full Text <https://doi.org/10.1007/s00248-019-01361-3>`_
 
+Lau, C. H., DeJong, E. N., Dussault, F., Carrillo, C., Stogios, P.J., & Topp, E. (2020). A penicillin-binding protein that can promote advanced-generation cephalosporin resistance and genome adaptation in the opportunistic pathogen Pseudomonas aeruginosa. International Journal of Antimicrobial Agents. 55(3), 105896. `Full Text <https://doi.org/10.1016/j.ijantimicag.2020.105896>`_
+
 Le, K. K., Whiteside, M. D., Hopkins, J. E., Gannon, V. P. J., & Laing, C. R. (2018). Spfy: An integrated graph database for real-time prediction of bacterial phenotypes and downstream comparative analyses. Database, 2018(2018), 1–10. `Full Text <https://doi.org/10.1093/database/bay086>`_
+
+Low, A. J., Koziol, A. G., Manninger, P. A., Blais, B. W., & Carrillo, C. D. 2019. ConFindr: Rapid detection of intraspecies and cross-species contamination in bacterial whole-genome sequence data. PeerJ. 7, e6995. `Full Text <http://doi.org/10.7717/peerj.6995>`_
+
+Maguire, F., Rehman, M. A., Carrillo, C., Diarra, M. S., & Beiko, R. G. (2019). Identification of primary antimicrobial resistance drivers in agricultural nontyphoidal Salmonella enterica serovars by using machine learning. MSystems, 4, e00211-19. `Full Text <https://doi:10.1128/mSystems.00211-19>`_
 
 McAllister, T. A., Wang, Y., Diarra, M. S., Alexander, T., & Stanford, K. (2018). Challenges of a one-health approach to the development of alternatives to antibiotics. Animal Frontiers, 8(2), 10–20. `Full Text <https://doi.org/10.1093/af/vfy002>`_
 
@@ -41,9 +49,13 @@ Palma, F., Manfreda, G., Silva, M., Parisi, A., Barker, D. O. R., Taboada, E. N.
 
 Radford, D., Strange, P., Lepp, D., Hernandez, M., Rehman, M. A., Diarra, M. S., & Balamurugan, S. (2018). Genomic and proteomic analyses of Salmonella enterica serovar Enteritidis identifying mechanisms of induced de novo tolerance to ceftiofur. Frontiers in Microbiology, 9(SEP), 1–20. `Full Text <https://doi.org/10.3389/fmicb.2018.02123>`_
 
-Rehman, M. A., Yin, X., Zaheer, R., Goji, N., Amoako, K. K., McAllister, T., … Diarra, M. S. (2018). Genotypes and Phenotypes of Enterococci Isolated From Broiler Chickens. Frontiers in Sustainable Food Systems, 2(December). `Full Text <https://doi.org/10.3389/fsufs.2018.00083>`_
+Rehman, M. A., Carrillo, C., Malouin, F., Diarra, M.S. (2017). Draft whole-genome sequences of multidrug-resistant Escherichia coli O157:H7 strains isolated from feedlot cattle treated with growth-promoting agents. Genome Announcements, 5(18):e00284-17. `Full Text <https://doi:10.1128/genomeA.00284-17>`_
 
-Robertson, J., Lin, J., Wren-Hedegus, A., Arya, G., Carrillo, C., & Nash, J. H. E. (2019). Development of a multi-locus typing scheme for an Enterobacteriaceae linear plasmid that mediates inter-species transfer of flagella. BioRxiv. `Full Text <https://doi.org/10.1101/664508>`_
+Rehman, M. A., Yin, X., Zaheer, R., Goji, N., Amoako, K. K., McAllister, T., & Diarra, M. S. (2018). Genotypes and Phenotypes of Enterococci Isolated From Broiler Chickens. Frontiers in Sustainable Food Systems, 2(December). `Full Text <https://doi.org/10.3389/fsufs.2018.00083>`_
+
+Rehman, M. A., Hasted, T.-L., Persaud-Lachhman, M. G., Yin, X., Carrillo, C., & Diarra, M. S. (2019). Genome Analysis and Multiplex PCR Method for the Molecular Detection of Coresistance to Cephalosporins and Fosfomycin in Salmonella enterica Serovar Heidelberg. Journal of Food Protection, 82, 1938–1949.  `Full Text <https://doi.org/10.4315/0362-028X.JFP-19-205>`_
+
+Robertson, J., Lin, J., Wren-Hedegus, A., Arya, G., Carrillo, C., & Nash, J. H. E. (2019). Development of a multi-locus typing scheme for an Enterobacteriaceae linear plasmid that mediates inter-species transfer of flagella. PLOS ONE, 14, e0218638. `Full Text <https://doi.org/10.1101/664508>`_
 
 Robertson, J., & Nash, J. H. E. (2018). MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies. Microbial Genomics, 4(8). `Full Text <https://doi.org/10.1099/mgen.0.000206>`_
 
