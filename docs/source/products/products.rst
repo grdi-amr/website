@@ -7,6 +7,14 @@ Work Products
 Work Package 1
 --------------
 
+ConFindr
+~~~~~~~~
+
+Intra-species bacterial contamination detection.
+
+`Link <https://olc-bioinformatics.github.io/ConFindr/>`_
+
+
 Work Package 2
 --------------
 
