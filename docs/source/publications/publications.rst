@@ -39,7 +39,7 @@ Le, K. K., Whiteside, M. D., Hopkins, J. E., Gannon, V. P. J., & Laing, C. R. (2
 
 Low, A. J., Koziol, A. G., Manninger, P. A., Blais, B. W., & Carrillo, C. D. 2019. ConFindr: Rapid detection of intraspecies and cross-species contamination in bacterial whole-genome sequence data. PeerJ. 7, e6995. `Full Text <http://doi.org/10.7717/peerj.6995>`_
 
-Maguire, F., Rehman, M. A., Carrillo, C., Diarra, M. S., & Beiko, R. G. (2019). Identification of primary antimicrobial resistance drivers in agricultural nontyphoidal Salmonella enterica serovars by using machine learning. MSystems, 4, e00211-19. `Full Text <https://doi:10.1128/mSystems.00211-19>`_
+Maguire, F., Rehman, M. A., Carrillo, C., Diarra, M. S., & Beiko, R. G. (2019). Identification of primary antimicrobial resistance drivers in agricultural nontyphoidal Salmonella enterica serovars by using machine learning. MSystems, 4, e00211-19.  `Full Text <https://doi.org/10.1128/mSystems.00211-19>`_
 
 McAllister, T. A., Wang, Y., Diarra, M. S., Alexander, T., & Stanford, K. (2018). Challenges of a one-health approach to the development of alternatives to antibiotics. Animal Frontiers, 8(2), 10–20. `Full Text <https://doi.org/10.1093/af/vfy002>`_
 
@@ -49,7 +49,7 @@ Palma, F., Manfreda, G., Silva, M., Parisi, A., Barker, D. O. R., Taboada, E. N.
 
 Radford, D., Strange, P., Lepp, D., Hernandez, M., Rehman, M. A., Diarra, M. S., & Balamurugan, S. (2018). Genomic and proteomic analyses of Salmonella enterica serovar Enteritidis identifying mechanisms of induced de novo tolerance to ceftiofur. Frontiers in Microbiology, 9(SEP), 1–20. `Full Text <https://doi.org/10.3389/fmicb.2018.02123>`_
 
-Rehman, M. A., Carrillo, C., Malouin, F., Diarra, M.S. (2017). Draft whole-genome sequences of multidrug-resistant Escherichia coli O157:H7 strains isolated from feedlot cattle treated with growth-promoting agents. Genome Announcements, 5(18):e00284-17. `Full Text <https://doi:10.1128/genomeA.00284-17>`_
+Rehman, M. A., Carrillo, C., Malouin, F., Diarra, M.S. (2017). Draft whole-genome sequences of multidrug-resistant Escherichia coli O157:H7 strains isolated from feedlot cattle treated with growth-promoting agents. Genome Announcements, 5(18):e00284-17. `Full Text <https://doi.org/10.1128/genomeA.00284-17>`_
 
 Rehman, M. A., Yin, X., Zaheer, R., Goji, N., Amoako, K. K., McAllister, T., & Diarra, M. S. (2018). Genotypes and Phenotypes of Enterococci Isolated From Broiler Chickens. Frontiers in Sustainable Food Systems, 2(December). `Full Text <https://doi.org/10.3389/fsufs.2018.00083>`_
 
