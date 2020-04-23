@@ -4,6 +4,16 @@
 Publications
 ============
 
+Import to Reference Manager
+---------------------------
+
+Download :download:`as a .CSV file <../downloads/grdi-amr_ref.csv>`.  
+
+Download :download:`as a .RIS file <../downloads/grdi-amr_ref.ris>`.  
+
+Download :download:`as a .BIB file <../downloads/grdi-amr_ref.bib>`.  
+
+
 Unsorted
 --------
 
