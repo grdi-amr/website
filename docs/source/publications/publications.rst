@@ -37,6 +37,8 @@ Cameron, A., Klima, C. L., Ha, R., Gruninger, R. J., Zaheer, R., & McAllister, T
 
 Chekabab, S. M., Rehman, M. A., Yin, X., Carrillo, C., Mondor, M., & Diarra, M. S. (2019). Growth of Salmonella enterica Serovars Typhimurium and Enteritidis in Iron-Poor Media and in Meat: Role of Catecholate and Hydroxamate Siderophore Transporters. Journal of Food Protection, 82(4), 548–560. `Full Text <https://doi.org/10.4315/0362-028X.JFP-18-371>`_
 
+Collineau L, Chapman B, Bao X, Sivapathasundaram B, Carson CA, Fazil A, Reid-Smith RJ, Smith BA. 2020. A farm-to-fork quantitative risk assessment model for Salmonella Heidelberg resistant to third-generation cephalosporins in broiler chickens in Canada. International Journal of Food Microbiology. Volume 330. `Full Text <https://doi.org/10.1016/j.ijfoodmicro.2020.108559>`_
+
 Cooper, A. L., Low, A. J., Koziol, A. G., Thomas, M. C., Leclair, D., Tamber, S., Wong, A., Blais, B. W., & Carrillo, C. D. (2020). Whole Genome Sequence-Based Predictions of Serotype and Antimicrobial Resistance for Salmonella Isolates from Canadian Poultry. Frontiers in Microbiology, 11, 549. `Full Text <https://doi.org/10.3389/fmicb.2020.00549>`_
 
 Islam, M. R., Lepp, D., Godfrey, D. V, Orban, S., Ross, K., Delaquis, P., & Diarra, M. S. (2019). Effects of wild blueberry ( Vaccinium angustifolium ) pomace feeding on gut microbiota and blood metabolites in free-range pastured broiler chickens . Poultry Science, 1–17. `Full Text <https://doi.org/10.3382/ps/pez062>`_
@@ -48,6 +50,8 @@ Lau, C. H., DeJong, E. N., Dussault, F., Carrillo, C., Stogios, P.J., & Topp, E.
 Le, K. K., Whiteside, M. D., Hopkins, J. E., Gannon, V. P. J., & Laing, C. R. (2018). Spfy: An integrated graph database for real-time prediction of bacterial phenotypes and downstream comparative analyses. Database, 2018(2018), 1–10. `Full Text <https://doi.org/10.1093/database/bay086>`_
 
 Low, A. J., Koziol, A. G., Manninger, P. A., Blais, B. W., & Carrillo, C. D. 2019. ConFindr: Rapid detection of intraspecies and cross-species contamination in bacterial whole-genome sequence data. PeerJ. 7, e6995. `Full Text <http://doi.org/10.7717/peerj.6995>`_
+
+MacKinnon MC, Sargeant JM, Pearl DL, Reid-Smith RJ, Carson CA, Parmley EJ, McEwen SA Evaluation of the health and healthcare system burden due to antimicrobial-resistant Escherichia coli infections in humans: a systematic review and meta-analysis. MacKinnon MC, Sargeant JM, Pearl DL, Reid-Smith RJ, Carson CA, Parmley EJ, McEwen SA. Antimicrob Resist Infect Control. 2020 Dec 10;9(1):200.
 
 Maguire, F., Rehman, M. A., Carrillo, C., Diarra, M. S., & Beiko, R. G. (2019). Identification of primary antimicrobial resistance drivers in agricultural nontyphoidal Salmonella enterica serovars by using machine learning. MSystems, 4, e00211-19.  `Full Text <https://doi.org/10.1128/mSystems.00211-19>`_
 
