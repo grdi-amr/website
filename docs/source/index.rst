@@ -33,7 +33,7 @@ This website provides key information, and links to publications and tools creat
    :caption: Conference Presentations
    :maxdepth: 2
 
-   /presentations/presenations
+   /presentations/presentations
 
 Indices and tables
 ==================
